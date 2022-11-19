@@ -44,7 +44,7 @@ main {
   display: flex;
   position: relative;
   margin-left: -20%;
-  background: url("../images/bg-pattern-desktop.svg");
+  background: url(./images/bg-pattern-desktop.svg);
   background-position: 100% 65%;
   background-repeat: no-repeat;
   padding-block: 4rem;
